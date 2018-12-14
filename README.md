@@ -1,0 +1,2 @@
+# MobileFriendly
+MobileFriendlyElements
